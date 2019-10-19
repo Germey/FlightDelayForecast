@@ -1,0 +1,7 @@
+data/test.csv filter=lfs diff=lfs merge=lfs -text
+data/train.csv filter=lfs diff=lfs merge=lfs -text
+data/2015年5月到2017年5月城市天气.csv filter=lfs diff=lfs merge=lfs -text
+data/2015年5月到2017年5月航班动态数据.csv filter=lfs diff=lfs merge=lfs -text
+data/submission_sample.csv filter=lfs diff=lfs merge=lfs -text
+data/2015年5月到2017年5月特情.xlsx filter=lfs diff=lfs merge=lfs -text
+data/机场城市对应表.xlsx filter=lfs diff=lfs merge=lfs -text
